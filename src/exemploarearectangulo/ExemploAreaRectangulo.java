@@ -19,7 +19,7 @@ public class ExemploAreaRectangulo {
     public static void main(String[] args) {
      Scanner ler = new Scanner(System.in);
         
-        float base= 0, altura= 0, area= 0;
+        float base, altura, area;
         System.out.println("teclea base:");
         base=ler.nextFloat();
         System.out.println("teclea altura:");
@@ -34,6 +34,3 @@ public class ExemploAreaRectangulo {
     }
     
 }
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA
-        Bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccccccccccccccccccccccc
